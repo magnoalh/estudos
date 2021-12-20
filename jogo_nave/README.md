@@ -1,13 +1,9 @@
 
-<!--Banner session-->
-<p align="center">
-  <img src="./src/assets/readme/banner.png" alt="DIO" title="Digital Innovation One">
-</p>
 
 <!--About session-->
 <h1 align="center">Construindo o seu primeiro jogo de naves<br>Digital Innovation One</h1>
 
-<img src="./src/assets/readme/badge.png" title="Badge" width="70" height="70">
+
 
 Curso do Bootcamp JavaScript Game Developer da [Digital Innovation One](https://digitalinnovation.one/).
 
@@ -15,7 +11,7 @@ Uma das dificuldades dos desenvolvedores de jogos é encontrar uma plataforma de
 
 - [Projeto desenvolvido](https://game-resgate.vercel.app/)
 
-<p align="center"><img src="./src/assets/readme/projeto.gif" title="Jogo de Naves - DIO"></p>
+
 
 <h3>👨‍💻 Tecnologias utilizadas</h3>
 
